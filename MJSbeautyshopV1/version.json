@@ -1,6 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "MJSbeautyshopV1",
   "url": "https://discord.gg/V2FeSnqHMp",
-  "changelog": "Small fixes and performance improvements."
+  "changelog": "Small fixes and performance improvements.",
+  "message": "A new update is available. Please download the latest version from your Keymaster!."
 }
